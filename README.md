@@ -1,4 +1,4 @@
-# README1
+# README
 
 Start react project on local computer as fast it can!
 
