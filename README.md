@@ -10,7 +10,11 @@ Just copy all below commands to terminal at once, and you'll have react project 
 npx degit github:sahilrajput03/react-app my-react-app
 cd my-react-app
 npm install
+```
 
-# Wooahh! Now run the dev server via:
+now, wooahh! Now open VS Code and run the dev server via:
+
+```bash
+code .
 npm run dev
 ```
