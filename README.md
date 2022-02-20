@@ -12,7 +12,9 @@ cd my-react-app
 npm install
 ```
 
-now, wooahh! Now open VS Code and run the dev server via:
+Wwooahh, project setup done!
+
+**Now you can open VS Code and run the dev server via below commands:**
 
 ```bash
 code .
