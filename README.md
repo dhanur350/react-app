@@ -2,7 +2,7 @@
 
 Start react project on local computer as fast it can!
 
-## Creating from scratch:
+## Creating react app
 
 Just copy all below commands to terminal at once, and you'll have react project running ASAP.
 
