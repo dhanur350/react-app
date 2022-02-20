@@ -18,3 +18,5 @@ now, wooahh! Now open VS Code and run the dev server via:
 code .
 npm run dev
 ```
+
+Now, you can open the app in browser by opening url http://localhost:3000 in your browser.
